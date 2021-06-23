@@ -1,0 +1,103 @@
+body{
+	margin: :20px;
+	background-color:#B0C4DE ;
+}
+
+#nave {
+	margin-left: 200px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-align: center;
+}
+ul li {
+	float: left;
+	width: 250px;
+	font-size: 20px;
+	background-color: #000;
+	line-height: 50px;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	margin-left: 15px;
+}
+
+ul li a {
+	font-family: roboto, sans-serif;
+	color: #fff;
+	display: block;
+	text-decoration: none;
+text-align: center;
+}
+
+
+ul li ul li {
+	display: none;
+	text-align: center;
+}
+
+ul li:hover ul li{
+	display: block;
+	text-align: center;
+}
+	 h2{
+	 	font-family: roboto,sans-serif;
+	 	font-size: 30px;
+	 	margin-left: 10px;
+	 }
+
+	 h1{
+	 	font-family: roboto, sans-serif;
+	  font-size: 50px;
+	 background-color: #000;
+	 color: #fff;
+	 text-align: center;
+
+	 }
+
+     p{
+     	font-family: open sans, sans-serif;
+	font-size: 25px;
+	margin-right: 1200px;
+     }
+#centro{
+	text-align: center;
+}
+
+#esquerda{
+	margin-left:1120px;
+	margin-top:-300px;
+}
+#direita{
+	margin-left:500px;
+}
+#editorial{
+	margin-top: 20px;
+	text-align: center;
+}
+
+#fotografia{
+	margin: 20px;
+	margin-left: 90px;
+}
+
+#embalagem{
+	margin: 20px;
+	margin-left: 180px;
+}
+
+
+#video{
+	margin: 20px;
+	margin-left: 180px;
+
+}
+footer{
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+	background-color:#000;
+	color: #fff;
+}
